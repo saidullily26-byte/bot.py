@@ -14,7 +14,7 @@ from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, Con
 
 # ==================== CONFIG SECTION ====================
 
-BOT_TOKEN = "8745564551:AAFNTIqhyasIao0MzbY06AJ9iz2G5yB6YO0"
+BOT_TOKEN = "8926378970:AAE8GuFX56uSTyJNDm3vnxs8SM0rENZwuvk"
 API_KEY = "MURAD_C80D9E90F3C39ED1D4364B80"
 BASE_URL = "https://fastxotps.com"           # আপনার প্যানেল ডোমেন (trailing slash ছাড়া)
 USER_DATA_FILE = "users.json"
